@@ -78,7 +78,7 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 
 #### 9. Flip the cropped/resized image horizontally.
 ```python
-# YOUR CODE HERE
+
 ```
 
 #### 10. Read in the image ('Apollo-11-launch.jpg').
